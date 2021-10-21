@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import { Row, Col } from 'antd'
+
+import Header from './components/Header'
+import Table from './components/Table'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  return ( 
+    <>
+      <Header />
+
+      <Row>
+        <Col xs={24} ms={ {span: 12, offset: 6}}>
+            <Table />
+        </Col>
+      </Row>
+    </>
   );
 }
 
