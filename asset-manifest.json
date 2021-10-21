@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/antdesign_tables/static/js/main.c6a7354e.chunk.js",
+    "main.js.map": "/antdesign_tables/static/js/main.c6a7354e.chunk.js.map",
+    "runtime-main.js": "/antdesign_tables/static/js/runtime-main.e9fa41e3.js",
+    "runtime-main.js.map": "/antdesign_tables/static/js/runtime-main.e9fa41e3.js.map",
+    "static/css/2.a95be28f.chunk.css": "/antdesign_tables/static/css/2.a95be28f.chunk.css",
+    "static/js/2.12597c17.chunk.js": "/antdesign_tables/static/js/2.12597c17.chunk.js",
+    "static/js/2.12597c17.chunk.js.map": "/antdesign_tables/static/js/2.12597c17.chunk.js.map",
+    "index.html": "/antdesign_tables/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/antdesign_tables/static/css/2.a95be28f.chunk.css.map",
+    "static/js/2.12597c17.chunk.js.LICENSE.txt": "/antdesign_tables/static/js/2.12597c17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9fa41e3.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.12597c17.chunk.js",
+    "static/js/main.c6a7354e.chunk.js"
+  ]
+}
